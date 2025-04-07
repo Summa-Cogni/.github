@@ -2,7 +2,7 @@
 
 [Summa Cogni](https://www.summacogni.com) is a small company releasing high quality open source hardware for the benefit of all.
 
-## What have you done?
+## What have you made?
 So far, Summa Cogni has only released [Mathpad](https://github.com/Summa-Cogni/Mathpad), a keypad for typing maths on computers. 
 Hopefully more projects will be released in the future!
 
